@@ -4,6 +4,12 @@ DataLab Project Template
 Replace allcaps text with your project details. PROJECT_NAME should be your
 project's short name.
 
+On GitHub, name the project repository according to the following format:
+
+YEAR_COLLABORATOR_PROJECT_NAME
+
+The project's Google Drive directory should also follow this format.
+
 In the listing of directories, delete anything that isn't relevant to your
 project.
 -->
